@@ -10,7 +10,7 @@
 
 ### **HandUI 组件**
 
-![HandUI组件演示](C:\Users\Administrator\Downloads\KyuuKyuu-main\ReadMe\HandUI.gif)
+![pic1](ReadMe/HandUI.gif "w")
 
 - 专为显示急救步骤文本提示而设计的交互组件
 - 集成**DOTween**动画系统，实现文本的平滑淡入淡出效果
@@ -19,7 +19,7 @@
 
 ### **LineRenderer 动态连线工具**
 
-![LineRenderer效果展示](C:\Users\Administrator\Downloads\KyuuKyuu-main\ReadMe\LineRenderer.gif)
+![LineRenderer效果展示](ReadMe/LineRenderer.gif)
 
 - 利用**LineRenderer**组件实现两点间动态连线，实时更新位置数据
 - 采用`ExecuteInEditMode`属性，支持编辑模式下实时预览，极大提升开发效率
@@ -27,7 +27,7 @@
 
 ### **空间UI视频教学系统**
 
-![LineRenderer效果展示](C:\Users\Administrator\Downloads\KyuuKyuu-main\ReadMe\VideoPlay.gif)
+![LineRenderer效果展示](ReadMe/VideoPlay.gif)
 
 - 集成**VRUI Package**和**UI Kit for visionOS**，构建悬浮视频播放面板
 
