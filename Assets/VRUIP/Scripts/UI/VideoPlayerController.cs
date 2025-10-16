@@ -160,7 +160,7 @@ namespace VRUIP
             playButton.iconImage.sprite = playSprite;
             //新增代码
             Canvas_Player.SetActive(false);
-            machine.TryToChangeStateByName("State_启动AED");
+            machine.TryToChangeStateByName("State_打开急救包");
 
         }
 
